@@ -3,7 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/aplikasi-kamipetz-hadir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/aplikasi_kamipetz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/berawal-dari-kehilangan-nyawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/events2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadir-aplikasi-kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/hadir-aplikasi-kamipetz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hadir-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/hadir-di-bali.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/jagalah-hewan-peliharaan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/konsultasi-kesehatan-hewan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/launching-di-bali.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-consultation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-consultation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +53,18 @@
       <updated>1648227774760</updated>
       <workItem from="1648227775906" duration="5809000" />
       <workItem from="1648322277890" duration="2575000" />
-      <workItem from="1648343492593" duration="187000" />
+      <workItem from="1648343492593" duration="497000" />
+      <workItem from="1648440827770" duration="315000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="145" width="823" height="534" key="find.popup" timestamp="1648441134811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="145" width="823" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1648441134811" />
   </component>
 </project>
