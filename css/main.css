@@ -13943,4 +13943,13 @@ a.color-icon.border-icon:hover {
 
 }
 
+.page_header .page_social_icons {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 78px;
+}
 
+.page_header .page_social_icons img {
+	max-width: none !important;
+	height: none !important;
+}
