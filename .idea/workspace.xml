@@ -2,50 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bahasa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/hadir-di-bali.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/launching-di-bali.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/offline-consultation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/online-consultation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/indonesia-flag-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/indonesia-flag-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/indonesia-flag-48.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/usa-flag-16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/usa-flag-24.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/usa-flag-48.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/aplikasi-kamipetz-hadir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/aplikasi_kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/berawal-dari-kehilangan-nyawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/events2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadir-aplikasi-kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/hadir-aplikasi-kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hadir-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/hadir-di-bali.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/jagalah-hewan-peliharaan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/konsultasi-kesehatan-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/launching-di-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-consultation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +17,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
   <component name="ProjectId" id="26t0rF1A9IheAALdYsGjH44Ihds" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -91,7 +51,8 @@
       <workItem from="1648322277890" duration="2575000" />
       <workItem from="1648343492593" duration="497000" />
       <workItem from="1648440827770" duration="315000" />
-      <workItem from="1648561484173" duration="6964000" />
+      <workItem from="1648561484173" duration="7595000" />
+      <workItem from="1648601931708" duration="45000" />
     </task>
     <servers />
   </component>
