@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/events2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" afterDir="false" />
@@ -24,10 +20,6 @@
       <change beforePath="$PROJECT_DIR$/id/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/media.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/offline-consultation.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/online-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-consultation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +73,7 @@
       <workItem from="1648715329340" duration="621000" />
       <workItem from="1648737982899" duration="10653000" />
       <workItem from="1648748834688" duration="7471000" />
-      <workItem from="1648782013524" duration="649000" />
+      <workItem from="1648782013524" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648602019151</created>
@@ -104,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648756194456</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <created>1648782709426</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648782709426</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,18 +119,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648756192812">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648782708196">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648756192812" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648756201238">
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648782708196" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648782711048">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648756201238" />
-    <state x="595" y="183" width="1029" height="674" key="find.popup" timestamp="1648568279567">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648782711048" />
+    <state x="620" y="191" width="1029" height="674" key="find.popup" timestamp="1648782820533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="476" y="145" width="823" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1648441134811" />
-    <state x="595" y="183" width="1029" height="674" key="find.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648568279567" />
+    <state x="620" y="191" width="1029" height="674" key="find.popup/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648782820533" />
   </component>
 </project>
