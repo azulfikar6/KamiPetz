@@ -2,34 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/id/kamipetz-luncurkan-aplikasi-telehealth.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/media-bak.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/About-Us-Banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/About-Us.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Blurred-Media-Banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Blurred-Offline-Banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Blurred-Online-Banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-Dian-Cipta-Rini.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-I-Dewa-Made-Anom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-Intan-Irviani.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-Iqlal-Fauzan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-M-Munawaroh-MM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-Maria-Pristi-Anris-Yunikawati.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Drh-Wayan-Yustisia-Semarariana.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Offline-Icon-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Online-Icon-100.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/PRESS RELEASE FINAL.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/PRESS RELEASE english.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rilis Aplikasi KamiPetz Jakarta.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chat-consul.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/events-banner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/landing-page.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/video-consul.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kamipetz-permudah-akses-kesehatan-hewan-peliharaan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media_bak.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/events2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
@@ -43,6 +17,7 @@
       <change beforePath="$PROJECT_DIR$/id/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/kamipetz-luncurkan-aplikasi-telehealth.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-luncurkan-aplikasi-telehealth.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/launching-di-bali.html" afterDir="false" />
@@ -105,7 +80,8 @@
       <workItem from="1648693194017" duration="4604000" />
       <workItem from="1648715329340" duration="621000" />
       <workItem from="1648737982899" duration="10653000" />
-      <workItem from="1648748834688" duration="7288000" />
+      <workItem from="1648748834688" duration="7471000" />
+      <workItem from="1648782013524" duration="649000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648602019151</created>
@@ -121,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648715351198</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <created>1648756194456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648756194456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,17 +116,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <MESSAGE value="update Meet Our Experts" />
-    <option name="LAST_COMMIT_MESSAGE" value="update Meet Our Experts" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648715350083">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648756192812">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648715350083" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648715353804">
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648756192812" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648756201238">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648715353804" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648756201238" />
     <state x="595" y="183" width="1029" height="674" key="find.popup" timestamp="1648568279567">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
