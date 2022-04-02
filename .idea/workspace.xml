@@ -2,207 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/events-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events_tpl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events-9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/events_tpl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/make_event.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/id/press-release-jakarta.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/850px.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/011.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/012.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/013.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/014.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/017.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/020.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/022.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/025.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/026.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/bali/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt-tpl.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0099.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0159.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0171.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0205.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0219.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0226.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0230.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0233.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0250.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0256.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0261.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0266.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0269.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_0299.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/DSC_9231.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2566.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2567.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2582.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2583.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2584.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2586.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2590.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2592.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2593.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2599.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2602.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2603.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2606.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2612.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2621.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2630.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2633.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2638.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2641.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2913.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_2996.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3019.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3035.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3047.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3065.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3076.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3080.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3085.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3086.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3098.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3120.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3125.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3129.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3146.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3155.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3169.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3186.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3208.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3215.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3223.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3252.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3255.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3264.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3269.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3284.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3286.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3291.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3304.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3310.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3311.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3312.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3317.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3320.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3321.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3324.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3326.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3327.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3335.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3336.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3349.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3362.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3366.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/IMG_3370.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5750.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5766.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5782.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5804.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5810.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5814.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5820.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5831.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5835.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5857.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5859.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/jkt/MG_5868.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_kamipetz_big.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo_kamipetz_ori.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/make_event.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contoh-logo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo_kamipetz_500.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/hadir-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-di-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/kamipetz-luncurkan-aplikasi-telehealth.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/press-release-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/launching-di-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/media.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/offline-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/online-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo_kamipetz.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/logo_kamipetz.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/media.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,13 +31,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WEB\www\www_kamipetz\id" />
       <recent name="D:\WEB\www\www_kamipetz" />
+      <recent name="D:\WEB\www\www_kamipetz\id" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -257,7 +59,8 @@
       <workItem from="1648737982899" duration="10653000" />
       <workItem from="1648748834688" duration="7471000" />
       <workItem from="1648782013524" duration="2849000" />
-      <workItem from="1648833858705" duration="6574000" />
+      <workItem from="1648833858705" duration="7869000" />
+      <workItem from="1648867761590" duration="493000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648602019151</created>
@@ -301,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648784228153</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update">
+      <created>1648841152776</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1648841152776</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,18 +127,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648784226730">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1648841146961">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648784226730" />
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648841146961" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1648836095533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648836095533" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648784234223">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1648841154866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648784234223" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648841154866" />
     <state x="620" y="191" width="1029" height="674" key="find.popup" timestamp="1648784121508">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
