@@ -3,33 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/hadir-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-di-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/launching-di-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/media.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/offline-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/online-consultation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/press-release-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/press-release-bali.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/id/press-release-jakarta.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/press-release-jakarta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-consultation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +67,9 @@
       <workItem from="1649926070285" duration="842000" />
       <workItem from="1649946920827" duration="599000" />
       <workItem from="1650247677712" duration="1219000" />
-      <workItem from="1650352749209" duration="1245000" />
+      <workItem from="1650352749209" duration="1891000" />
+      <workItem from="1650390353677" duration="42000" />
+      <workItem from="1650600656089" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648602019151</created>
@@ -185,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650353501098</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1650354036447</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650354036448</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,18 +185,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1650353499917">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1650354035010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650353499917" />
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650354035010" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1648836095533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648836095533" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1650353503076">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1650354044517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650353503076" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650354044517" />
     <state x="620" y="191" width="1029" height="674" key="find.popup" timestamp="1648912683134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
