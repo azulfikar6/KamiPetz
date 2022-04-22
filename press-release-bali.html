@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+	<title>Kamipetz</title>
+	<meta charset="utf-8">
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/animations.css">
+	<link rel="stylesheet" href="css/fonts.css">
+	<script src="https://kit.fontawesome.com/d66c506916.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
+	<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+		<script src="js/vendor/html5shiv.min.js"></script>
+		<script src="js/vendor/respond.min.js"></script>
+		<script src="js/vendor/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+	<!-- search modal -->
+	<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">
+				<i class="rt-icon2-cross2"></i>
+			</span>
+		</button>
+		<div class="widget widget_search">
+			<form method="get" class="searchform search-form form-inline" action="./">
+				<div class="form-group">
+					<input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
+				</div>
+				<button type="submit" class="theme_button">Search</button>
+			</form>
+		</div>
+	</div>
+
+	<!-- Unyson messages modal -->
+	<div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
+		<div class="fw-messages-wrap ls with_padding">
+			<!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
+			<!--
+		<ul class="list-unstyled">
+			<li>Message To User</li>
+		</ul>
+		-->
+
+		</div>
+	</div>
+	<!-- eof .modal -->
+
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+
+			<!-- template sections -->
+
+
+
+
+			<section class="page_toplogo table_section table_section_md ls section_padding_top_15 section_padding_bottom_15">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center text-md-left">
+							<a href="index.html" class="logo top_logo">
+								<img src="images/logo_kamipetz_1170.png" width="117" alt="">
+							</a>
+						</div>
+						<div class="col-md-9 text-center text-md-right">
+
+							<div class="inline-teasers-wrap">
+								<a href="https://wa.me/6281353551385" target="_blank" class="p-0 m-0">
+									<div class="small-teaser text-left" style="margin-top: 0px;">
+										<img src="images/wa-logo.png">
+									</div>
+									<div class="small-teaser text-left" style="margin-top: 0px;">
+										<p class="small-text grey margin_0" style="height: 20px;">
+											CONTACT US:
+										</p>
+										<p class="highlight2 fontsize_20 medium">
+											0813 5355 1385
+										</p>
+									</div>
+								</a>
+
+<!--								<div class="small-teaser text-left" style="padding-left: 20px">-->
+<!--									<a href="javascript:void();" class="theme_button color4 wide_button">JOIN US</a>-->
+<!--								</div>-->
+
+								<div class="small-teaser text-left" style="padding-left: 10px">
+									<div class="dropdown">
+										<button class="btn btn-primary dropdown-toggle theme_button color4 wide_button" type="button" data-toggle="dropdown" style="border-radius:30px; background-color: #86649e">JOIN US
+											<span class="caret"></span></button>
+										<ul class="dropdown-menu">
+											<li><a href="https://docs.google.com/forms/d/1A9JdPnJR_Y70j2D-wnhrJJ2iupRnlOeNJ0jD4OzS53g/edit">Kamipetz for Vet</a></li>
+											<li><a href="https://docs.google.com/forms/d/11Yfgo9yC_2dash_6vFTXN6fKYBetmF4NxqoJJN1LBVU/edit">Kamipetz for Grooming</a></li>
+											<li><a href="https://docs.google.com/forms/d/1liiJKRfgLes8iipn5P9Q4cUM3Cp9Wzr7q-TD5BRVwAE/edit">Kamipetz for Pet Shop</a></li>
+										</ul>
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+			</section>
+
+			<header class="page_header header_white toggler_left with_top_border item_with_border">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 display_table">
+
+							<div class="header_mainmenu display_table_cell">
+								<!-- main nav start -->
+								<nav class="mainmenu_wrapper">
+									<ul class="mainmenu nav sf-menu">
+										<li>
+											<a href="index.html">Home</a>
+
+										</li>
+
+										<li>
+											<a href="javascript:void();">Consultation</a>
+											<ul>
+
+												<li>
+													<a href="online-consultation.html">Online Consultation</a>
+
+												</li>
+												<li>
+													<a href="offline-consultation.html">Offline Consultation</a>
+
+												</li>
+
+
+
+
+
+											</ul>
+										</li>
+
+
+										<li class="active">
+											<a href="javascript:void();">Media</a>
+											<ul>
+												<li>
+													<a href="press-release-bandung.html">Press Release Bandung</a>
+												</li>
+<!--												<li>-->
+<!--													<a href="press-release-jakarta.html">Press Release Jakarta</a>-->
+<!--												</li>-->
+												<li>
+													<a href="press-release-bali.html">Press Release Bali</a>
+												</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="events.html">Events</a>
+
+
+
+										<li>
+											<a href="about-us.html">About Us</a>
+
+								</nav>
+								<!-- eof main nav -->
+								<!-- header toggler -->
+								<span class="toggle_menu">
+									<span></span>
+								</span>
+							</div>
+<!--							<div class="header_right_buttons display_table_cell text-right bahasa">-->
+<!--								<div class="page_social_icons greylinks">-->
+<!--									<a href="index.html"><img src="images/usa-flag-48.png" width="41px" height="40px"></a>-->
+<!--									<a href="/id/index.html"><img src="images/indonesia-flag-48.png" width="41px" height="40px"></a>-->
+<!--								</div>-->
+<!--							</div>-->
+
+						</div>
+					</div>
+				</div>
+			</header>
+
+
+
+			<section class="page_breadcrumbs ds background_cover media background_overlay section_padding_top_65 section_padding_bottom_65">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="highlight">Media</h2>
+							<ol class="breadcrumb darklinks">
+								<li>
+									<a href="./">
+							Home
+						</a>
+								</li>
+								<li>
+									<a href="#">Media</a>
+								</li>
+								
+							</ol>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="about" class="ls section_padding_top_40 section_padding_bottom_40">
+				<div class="container">
+					
+					<div class="row">
+						<div class="col-md-12 media-post">
+							<span class="entry-date">Press Release | January 15<sup>th</sup> 2022</span><br>
+							<h2 class="section_header">
+								Kamipetz Launches Telehealth Application For Easier Health Access For Pets
+							</h2>
+							<img src="images/media/media11.jpg" class="textwrap-left" alt="" />
+							<p>Bali, January 15<sup>th</sup> 2022 – A startup created by PT CIPTA FASILITATOR APLIKASI based in Bali just launched an application called KamiPetz which provides easy health access for pets.</p>
+							<p>Answering the concerns of may pet parents regarding the difficulty of access to veterinarians in Indonesia and Southeast Asia, KamiPetz offers easier access to consult with veterinarians, ranging from general to experts such as for exotic aquatic pets (birds, fish, reptiles, etc.), skin, dental, eye, reproductive as well as oncology and pets soft tissue. </p>
+							<p>The idea of making KamiPetz application started when the Co-Founders had difficulty finding the right veterinarians to treat their beloved cat who was seriously ill during the beginning of pandemic. With KamiPetz application, pet parents can consult directly using telehealth which includes online and offline consultations with the best veterinarians. In collaborations with top clinics in Bali such as Anom Vet Clinic, Semer Vet, Kedonganan Vet, Gatsu Vet, Canifeli Vet and many more, KamiPetz offers the best access for pet health in Bali that can be accessed by all Indonesian residents that can be completed with online payments.</p>
+							<p>“As pet parent, we understand the importance of having the best access for your pets health. We also hope to be able to provide administrative assintance and support for animal hospitals, clinics, groomers, pet shops and the like,” CEO and Co-Founder of KamiPetz, Kiki Rizki. “This vision is clearly stated in the KamiPetz slogan, We’ve Got Your Petz Covered,” Kiki continues. </p>
+							<p>The COVID-19 pandemic has changed people’s lifestyle around the world, including regarding interactions with pets. This lifestyle change has made Indonesia experience a significant increase in the pet care industry as w whole, which is 38%. Making pet industry in Indonesia the largest market in Southeast Asia with a market size of IDR 21.81 trillion. </p>
+							<p>“This is a great time to launch the KamiPetz app. Apart from strategic opportunities due to the increasing market size of pet care in Indonesia, our hope is that we can help raise awareness for pet parents to start getting used to doing regular consultations for their pets to ensure their prime health,” Kiki continues.</p>
+							<p>KamiPetz launching event started this mornig until 13:00 WITA at Finns Recreation Club was lively and filled with various activities that pampered pet parents and their beloved pets who were present. DJ Cello with chill house music that bewitching all the pet parents to have fun, followed by the series of activities that are presented. “KamiPetz are very happy with the support from Bali’s top clinics who came from Anom Vet Clinic, Semer Vet and Kedonganan Vet to provide FREE consultation. Hanamaro Grooming also offers FREE dry grooming and Dewata K-9 is here to give shows and education about dog training. The Bali Reptile Community also enlivened the event through an exotic pet exhibition during the KamiPetz launching event today,” says Kiki Rizki.</p>
+						</div>
+					</div>
+
+				</div>
+			</section>
+
+			<section id="unduh" class="ls ms section_padding_top_100 section_padding_bottom_100">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="section_header">
+								DOWNLOAD APP
+							</h2>
+							
+						</div>
+					</div>
+					<div class="row columns_margin_bottom_40">
+						<div class="col-md-12">
+							<div class="teaser text-center">
+								<a href="https://play.google.com/store/apps/details?id=com.kamipetzpetowner.app" target="_blank" > <img src="images/google_play.png" alt="" /></a>
+							</div>
+						</div>
+<!--						<div class="col-md-6 col-sm-6">-->
+<!--							<div class="teaser text-center">-->
+<!--								<a href="https://play.google.com/store/apps/details?id=com.kamipetzpetowner.app" target="_blank" > <img src="images/google_play.png" alt="" /></a>-->
+<!--								-->
+<!--								-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-6 col-sm-6">-->
+<!--							<div class="teaser text-center">-->
+<!--								<img src="images/app_store.png" alt="" />-->
+<!--								-->
+<!--								-->
+<!--							</div>-->
+<!--						</div>-->
+						
+					</div>
+					
+				</div>
+			</section>
+
+			<section id="footer" class="ls2 ms2 section_padding_top_100 section_padding_bottom_100">
+				<div class="container">
+
+
+
+					<div class="row columns_margin_bottom_40" style="margin: 0 auto;font-size: 39px;color: #ffffff; text-align: center">
+						<a href="https://www.facebook.com/profile.php?id=100075747555205" style="color:#ffffff"><i class="fa-brands fa-facebook-f" style="padding: 0 15px;"></i></a>
+						<a href="https://vm.tiktok.com/ZTdm2N3tD/" style="color:#ffffff"><i class="fa-brands fa-tiktok" style="padding: 0 15px;"></i></a>
+						<a href="https://youtube.com/channel/UC43TwV7NW8HKZrHhhsFWwJg" style="color:#ffffff"><i class="fa-brands fa-youtube" style="padding: 0 15px;"></i></a>
+						<a href="https://www.instagram.com/kamipetz" style="color:#ffffff"><i class="fa-brands fa-instagram" style="padding: 0 15px;"></i></a>
+					</div>
+
+
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<p style="color:#ffffff">Copyright ©kamipetz2022. All rights reserved.</p>
+						</div>
+					</div>
+					
+				</div>
+			</section>
+
+		</div>
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+
+	<script src="js/compressed.js"></script>
+	<script src="js/main.js"></script>
+
+
+</body>
+
+</html>

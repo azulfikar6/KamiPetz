@@ -2,8 +2,32 @@
 $dir    = '../images/gallery';
 $files1 = scandir($dir . '/jkt');
 $files2 = scandir($dir . '/bali');
+$files3 = scandir($dir . '/fkr');
+$files4 = scandir($dir . '/pdyout');
 
 $collections = [];
+foreach($files4 as $file) {
+    if($file=='.' || $file=='..') {
+        continue;
+    }
+
+    $collections[] = [
+        'title' => 'Samasta Pet Day’s Out',
+        'file' => '../images/gallery/pdyout/'.$file
+    ];
+}
+
+foreach($files3 as $file) {
+    if($file=='.' || $file=='..') {
+        continue;
+    }
+
+    $collections[] = [
+        'title' => '',
+        'file' => '../images/gallery/fkr/'.$file
+    ];
+}
+
 foreach($files1 as $file) {
     if($file=='.' || $file=='..') {
         continue;
@@ -26,7 +50,7 @@ foreach($files2 as $file) {
     ];
 }
 
-$limit = 15;
+$limit = 33;
 $page = 1;
 $index = 0;
 $rolling = 0;
@@ -36,7 +60,8 @@ $fileContent = file_get_contents('events_tpl.html');
 while($page<=10) {
     $rolling += 1;
 
-    $items .= '<div class="isotope-item col-lg-4 col-md-6 col-sm-12 planning">
+    if(isset($collections[$index])) {
+        $items .= '<div class="isotope-item col-lg-4 col-md-6 col-sm-12 planning">
                     <div class="vertical-item gallery-item content-absolute text-center ds">
                         <div class="item-media">
                             <img src="'.$collections[$index]['file'].'" alt="">
@@ -53,6 +78,7 @@ while($page<=10) {
                         </div>
                     </div>
                 </div>';
+    }
 
     if($rolling==$limit) {
         $pagging = '';
@@ -63,6 +89,7 @@ while($page<=10) {
         $fileStore = str_replace('<!-- thumbnail -->', $items, $fileContent);
         $fileStore = str_replace('<!-- page -->', $pagging, $fileStore);
         $fileName = 'events'. ($page>=2?'-'.$page:'') .'.html';
+        $fileStore = str_replace('<!-- filename -->', $fileName, $fileStore);
 
         if(file_exists($fileName)) {
             unlink($fileName);

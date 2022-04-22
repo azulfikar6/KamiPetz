@@ -1,0 +1,361 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+<head>
+	<title>Kamipetz</title>
+	<meta charset="utf-8">
+	<!--[if IE]>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<![endif]-->
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+	<link rel="stylesheet" href="/../css/bootstrap.css">
+	<link rel="stylesheet" href="/../css/animations.css">
+	<link rel="stylesheet" href="/../css/fonts.css">
+	<script src="https://kit.fontawesome.com/d66c506916.js" crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="/../css/main.css" class="color-switcher-link">
+	<script src="/../js/vendor/modernizr-2.6.2.min.js"></script>
+
+	<!--[if lt IE 9]>
+		<script src="/../js/vendor/html5shiv.min.js"></script>
+		<script src="/../js/vendor/respond.min.js"></script>
+		<script src="/../js/vendor/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+	<!--[if lt IE 9]>
+		<div class="bg-danger text-center">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/" class="highlight">upgrade your browser</a> to improve your experience.</div>
+	<![endif]-->
+
+	<div class="preloader">
+		<div class="preloader_image"></div>
+	</div>
+
+	<!-- search modal -->
+	<div class="modal" tabindex="-1" role="dialog" aria-labelledby="search_modal" id="search_modal">
+		<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+			<span aria-hidden="true">
+				<i class="rt-icon2-cross2"></i>
+			</span>
+		</button>
+		<div class="widget widget_search">
+			<form method="get" class="searchform search-form form-inline" action="./">
+				<div class="form-group">
+					<input type="text" value="" name="search" class="form-control" placeholder="Search keyword" id="modal-search-input">
+				</div>
+				<button type="submit" class="theme_button">Search</button>
+			</form>
+		</div>
+	</div>
+
+	<!-- Unyson messages modal -->
+	<div class="modal fade" tabindex="-1" role="dialog" id="messages_modal">
+		<div class="fw-messages-wrap ls with_padding">
+			<!-- Uncomment this UL with LI to show messages in modal popup to your user: -->
+			<!--
+		<ul class="list-unstyled">
+			<li>Message To User</li>
+		</ul>
+		-->
+
+		</div>
+	</div>
+	<!-- eof .modal -->
+
+	<!-- wrappers for visual page editor and boxed version of template -->
+	<div id="canvas">
+		<div id="box_wrapper">
+
+			<!-- template sections -->
+
+			
+
+			<section class="page_toplogo table_section table_section_md ls section_padding_top_15 section_padding_bottom_15">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-3 text-center text-md-left">
+							<a href="index.html" class="logo top_logo">
+								<img src="/../images/logo_kamipetz_1170.png" width="117" alt="">
+							</a>
+						</div>
+						<div class="col-md-9 text-center text-md-right">
+
+							<div class="inline-teasers-wrap">
+								<div class="small-teaser text-left">
+									<img src="/../images/wa-logo.png">
+								</div>
+								<div class="small-teaser text-left">
+									<p class="small-text grey margin_0">
+							HUBUNGI KAMI:
+						</p>
+									<p class="highlight2 fontsize_20 medium">
+										0813 5355 1385
+						</p>
+								</div>
+								
+<!--								<div class="small-teaser text-left" style="padding-left: 20px">-->
+<!--									<a href="join-us.html" class="theme_button color4 wide_button">JOIN US</a>-->
+<!--								</div>-->
+
+								<div class="small-teaser text-left" style="padding-left: 10px">
+									<div class="dropdown">
+										<button class="btn btn-primary dropdown-toggle theme_button color4 wide_button" type="button" data-toggle="dropdown" style="border-radius:30px; background-color: #86649e">BERGABUNG
+											<span class="caret"></span></button>
+										<ul class="dropdown-menu">
+											<li><a href="https://docs.google.com/forms/d/1A9JdPnJR_Y70j2D-wnhrJJ2iupRnlOeNJ0jD4OzS53g/edit">Dokter Hewan</a></li>
+											<li><a href="https://docs.google.com/forms/d/11Yfgo9yC_2dash_6vFTXN6fKYBetmF4NxqoJJN1LBVU/edit">Perawatan</a></li>
+											<li><a href="https://docs.google.com/forms/d/1liiJKRfgLes8iipn5P9Q4cUM3Cp9Wzr7q-TD5BRVwAE/edit">Toko Hewan</a></li>
+										</ul>
+									</div>
+								</div>
+
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+			</section>
+
+			<header class="page_header header_white toggler_left with_top_border item_with_border">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 display_table">
+
+							<div class="header_mainmenu display_table_cell">
+								<!-- main nav start -->
+								<nav class="mainmenu_wrapper">
+									<ul class="mainmenu nav sf-menu">
+										<li>
+											<a href="index.html">Home</a>
+
+										</li>
+
+										<li>
+											<a href="javascript:void();">Konsultasi</a>
+											<ul>
+
+												<li>
+													<a href="online-consultation.html">Konsultasi Online</a>
+
+												</li>
+												<li>
+													<a href="offline-consultation.html">Konsultasi Offline</a>
+
+												</li>
+
+
+
+
+
+											</ul>
+										</li>
+
+
+										<li class="active">
+											<a href="javascript:void();">Media</a>
+											<ul>
+												<li>
+													<a href="press-release-bandung.html">Press Release Bandung</a>
+												</li>
+												<li>
+													<a href="press-release-jakarta.html">Press Release Jakarta</a>
+												</li>
+												<li>
+													<a href="press-release-bali.html">Press Release Bali</a>
+												</li>
+											</ul>
+										</li>
+
+										<li>
+											<a href="events.html">Acara</a>
+										</li>
+
+										<li>
+											<a href="about-us.html">Tentang Kami</a>
+										</li>
+								</nav>
+								<!-- eof main nav -->
+								<!-- header toggler -->
+								<span class="toggle_menu">
+									<span></span>
+								</span>
+							</div>
+							<div class="header_right_buttons display_table_cell text-right bahasa">
+								<div class="page_social_icons greylinks">
+									<a href="../index.html"><img src="../images/usa-flag-48.png" width="41px" height="40px"></a>
+									<a href="/id/aplikasi-kamipetz-hadir.html"><img src="../images/indonesia-flag-48.png" width="41px" height="40px"></a>
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</header>
+
+			
+
+			<section class="page_breadcrumbs ds background_cover media background_overlay section_padding_top_65 section_padding_bottom_65">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="highlight">Media</h2>
+							<ol class="breadcrumb darklinks">
+								<li>
+									<a href="./">
+							Home
+						</a>
+								</li>
+								<li>
+									<a href="media.html">Media</a>
+								</li>
+								
+							</ol>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section id="about" class="ls section_padding_top_40 section_padding_bottom_40">
+				<div class="container">
+					
+					<div class="row">
+						<div class="col-md-12 media-post">
+							<span class="entry-date">15 April, 2022</span><br>
+							<h2 class="section_header">KamiPetz Gandeng Samasta Jimbaran dan Level 21 Mall Rayakan Easter Bersama Hewan Kesayangan
+							</h2>
+							<img src="/../images/gallery/pdyout/1.jpg" class="textwrap-left" alt="" />
+							<p>
+								Denpasar, April 2022 – Berkumpul bersama dengan keluarga, teman, ataupun pasangan
+								untuk lebih mempererat kebersamaan sudah menjadi hal umum dalam memperingati
+								Paskah. Tahun ini KamiPetz mengajak 2 mall terbesar di Jimbaran dan Denpasar,
+								Samasta Jimbaran dan Level 21 Mall dalam merayakan Paskah bersama dengan hewan
+								kesayangan.</p>
+
+<p>“Kami senang dapat ikutserta dalam perayaan Easter di Samasta Jimbaran dan Level 21
+	Mall,” kata Kiki Rizki, CEO dan co-founder KamiPetz. “KamiPetz tercetus untuk
+	membuat aktifitas Paskah yang berbeda seiring tren yang tercatat di masa pandemi yang
+	memperlihatkan bagaimana hewan kesayangan diperlakukan secara signifikan seperti
+	bagian dari keluarga (pemilik hewan). Karena itu KamiPetz merasa penting untuk
+	mengajak seluruh bagian dari keluarga, termasuk hewan kesayangan dalam merayakan
+	Paskah bersama melalui acara Samasta Pet Day’s Out serta Easteria Sunday Puppy,” jelas
+	Kiki.</p>
+
+<p>Samasta Pet Day’s Out yang berlangsung pada 15 - 17 April 2022 di Jimbaran, Bali
+	melibatkan berbagai tenant dan komunitas seperti Bali Aquascape Center, Komunitas
+	Pecinta Hamster, Kakua Bali, Bali Rabbit Owner Club, Clorinda Gerbit, Widya Sarpa,
+	Kamipetz, Elite Jerkys, Queenies Kitchen, Bali Dog Land, dan Klein Mooi Plant. Samasta
+	bersama KamiPetz juga bekerja sama dengan Anom Vet Clinic untuk memberikan
+	konsultasi hewan kesayangan selama acara berlangsung. Hanya dengan menggunakan
+	aplikasi KamiPetz yang dapat diunduh melalui Google Playstore, konsultasi dengan
+	Anom Vet Clinic dibanderol dengan harga khusus, Rp 10.000. Tentunya semua
+	pencinta hewan bisa terhubung dan ikut serta. Mereka bertukar informasi dan
+	mendapatkan edukasi sekaligus mengenalkan Samasta Jimbaran sebagai salah satu mall
+	yang ramah terhadap hewan peliharaan (Pet Friendly).</p>
+
+<p>Acara di Level 21 Mall Denpasar juga tidak kalah serunya. Easteria Sunday Puppy yang
+	berlangsung pada hari Minggu, 17 April 2022 ramai dipadati oleh para pemilik hewan
+	(pet pawrentz) dengan hewan kesayangan mereka. Berbagai aktifitas seperti Talk
+	Show bareng drh. Intan dari Canifeli Vet, Toy Dog Beauty Contest, Dog Fashion Show,
+	Dog Easter Hunt juga promo konsultasi dengan drh. Intan dari Canifeli Vet dan drh. Vega
+	dari Pedungan Vet dari KamiPetz sebesar Rp 10.000 ikut diserbu pet pawrentz. Selain
+	itu, Level 21 Mall juga menyiapkan berbagai macam makanan yang bisa disantap dalam
+	Ramadhan Foodtruck Fest.</p>
+
+<p>KamiPetz adalah aplikasi yang memberikan akses ke pakar dokter hewan terbaik dan
+	dapat diunduh ke smartphone pengguna melalui Google Playstore dan mempunyai
+	cakupan di wilayah Bali dan Jabodetabek.</p>
+
+
+
+
+						</div>
+						
+					</div>
+
+
+				
+
+				</div>
+			</section>
+
+			<section id="unduh" class="ls ms section_padding_top_100 section_padding_bottom_100">
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<h2 class="section_header">
+								UNDUH APLIKASI
+							</h2>
+							
+						</div>
+					</div>
+					<div class="row columns_margin_bottom_40">
+						<div class="col-md-12">
+							<div class="teaser text-center">
+								<a href="https://play.google.com/store/apps/details?id=com.kamipetzpetowner.app" target="_blank" > <img src="/../images/google_play.png" alt="" /></a>
+							</div>
+						</div>
+<!--						<div class="col-md-6 col-sm-6">-->
+<!--							<div class="teaser text-center">-->
+<!--								<a href="https://play.google.com/store/apps/details?id=com.kamipetzpetowner.app" target="_blank" > <img src="/../images/google_play.png" alt="" /></a>-->
+<!--								-->
+<!--								-->
+<!--							</div>-->
+<!--						</div>-->
+<!--						<div class="col-md-6 col-sm-6">-->
+<!--							<div class="teaser text-center">-->
+<!--								<img src="/../images/app_store.png" alt="" />-->
+<!--								-->
+<!--								-->
+<!--							</div>-->
+<!--						</div>-->
+						
+					</div>
+					
+				</div>
+			</section>
+
+			<section id="footer" class="ls2 ms2 section_padding_top_100 section_padding_bottom_100">
+				<div class="container">
+
+
+
+					<div class="row columns_margin_bottom_40" style="margin: 0 auto;font-size: 39px;color: #ffffff; text-align: center">
+						<a href="https://www.facebook.com/profile.php?id=100075747555205" style="color:#ffffff"><i class="fa-brands fa-facebook-f" style="padding: 0 15px;"></i></a>
+						<a href="https://vm.tiktok.com/ZTdm2N3tD/" style="color:#ffffff"><i class="fa-brands fa-tiktok" style="padding: 0 15px;"></i></a>
+						<a href="https://youtube.com/channel/UC43TwV7NW8HKZrHhhsFWwJg" style="color:#ffffff"><i class="fa-brands fa-youtube" style="padding: 0 15px;"></i></a>
+						<a href="https://www.instagram.com/kamipetz" style="color:#ffffff"><i class="fa-brands fa-instagram" style="padding: 0 15px;"></i></a>
+					</div>
+
+
+					<div class="row">
+						<div class="col-sm-12 text-center">
+							<p style="color:#ffffff">Copyright ©kamipetz2022. All rights reserved.</p>
+						</div>
+					</div>
+					
+				</div>
+			</section>
+
+		</div>
+		<!-- eof #box_wrapper -->
+	</div>
+	<!-- eof #canvas -->
+
+	<script src="/../js/compressed.js"></script>
+	<script src="/../js/main.js"></script>
+
+
+</body>
+
+</html>

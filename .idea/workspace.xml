@@ -2,9 +2,373 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e1053203-b7e0-4cc2-aa85-2974b8688324" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/id/kamipetz-gandeng-samasta-jimbaran.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/id/press-release-bandung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.36 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.38 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.38 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.39 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.40 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.41 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.42 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.42 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.43 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.43 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.44 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.44 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.45 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.45 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.46 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.46 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.47 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.48 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.48 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.50 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.50 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.51 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.51 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.52 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.52 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.53 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.53 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.54 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.55 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.56 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.56 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.56 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.57 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.58 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.58 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.58 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.59 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.59 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.17.59 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.00 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.00 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.01 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.01 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.01 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.02 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.02 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.03 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.03 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.03 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.04 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.04 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.04 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.05 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.05 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.06 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.06 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.06 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.07 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.07 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.07 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.08 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.08 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.08 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.09 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.10 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.10 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.10 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.11 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.11 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.11 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.12 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.12 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.13 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.13 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.13 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.14 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.14 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.14 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.15 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.15 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.15 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.16 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.16 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.16 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.17 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.17 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.18 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.18 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.18 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.19 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.19 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.19 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.20 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.20 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.20 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.21 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.21 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.22 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.23 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.23 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.23 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.24 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.24 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.24 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.25 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.25 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.26 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.26 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.26 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.27 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.27 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.27 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.28 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.28 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.28 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.29 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.29 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.29 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.30 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.30 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.31 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.31 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.31 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.32 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.32 AM (2).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.32 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.33 AM (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr-tpl/WhatsApp Image 2022-04-20 at 11.18.33 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/fkr/fkr-99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/10.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/5.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/7.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/8.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9075.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9081.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9098.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9114.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9115.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9116.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9117.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9165.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9166.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9167.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9172.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9211.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9215.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9241.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9246.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9248.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9265.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9270.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9439.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9455.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9460.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9461.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9464.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9477.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9495.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdy-tpl/IMG_9791.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9075.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9081.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9098.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9241.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9246.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9270.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9439.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9455.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9460.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9461.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9464.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9477.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9495.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/gallery/pdyout/IMG_9791.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/press-release-bandung.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events_tpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/events_tpl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/about-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/about-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi-kamipetz-hadir.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/aplikasi_kamipetz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/berawal-dari-kehilangan-nyawa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-10.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events-9.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events-9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/events_tpl.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/events_tpl.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-aplikasi-kamipetz.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/hadir-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/hadir-di-bali.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/jagalah-hewan-peliharaan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-bantu-pemilik-hewan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/kamipetz-mempermudah-akses-kesehatan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/konsultasi-kesehatan-hewan.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/launching-di-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/launching-di-bali.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/make_event.php" beforeDir="false" afterPath="$PROJECT_DIR$/id/make_event.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/media.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/id/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/offline-consultation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/online-consultation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/press-release-bali.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/press-release-bali.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/id/press-release-jakarta.html" beforeDir="false" afterPath="$PROJECT_DIR$/id/press-release-jakarta.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/make_event.php" beforeDir="false" afterPath="$PROJECT_DIR$/make_event.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.html" beforeDir="false" afterPath="$PROJECT_DIR$/press-release-bali.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/offline-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/offline-consultation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/online-consultation.html" beforeDir="false" afterPath="$PROJECT_DIR$/online-consultation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +396,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,7 +434,8 @@
       <workItem from="1650247677712" duration="1219000" />
       <workItem from="1650352749209" duration="1891000" />
       <workItem from="1650390353677" duration="42000" />
-      <workItem from="1650600656089" duration="235000" />
+      <workItem from="1650600656089" duration="2718000" />
+      <workItem from="1650650373126" duration="3652000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1648602019151</created>
@@ -169,7 +535,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650354036448</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1650600901283</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1650600901283</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,18 +558,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1650354035010">
+    <state x="585" y="89" key="CommitChangelistDialog2" timestamp="1650600900270">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650354035010" />
+    <state x="585" y="89" key="CommitChangelistDialog2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650600900270" />
     <state x="794" y="443" key="NewPhpFileDialog" timestamp="1648836095533">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1648836095533" />
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1650354044517">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1650600903068">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650354044517" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.0.1280.984@0.0.1920.1040" timestamp="1650600903068" />
     <state x="620" y="191" width="1029" height="674" key="find.popup" timestamp="1648912683134">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

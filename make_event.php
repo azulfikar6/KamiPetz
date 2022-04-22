@@ -2,8 +2,32 @@
 $dir    = 'images/gallery';
 $files1 = scandir($dir . '/jkt');
 $files2 = scandir($dir . '/bali');
+$files3 = scandir($dir . '/fkr');
+$files4 = scandir($dir . '/pdyout');
 
 $collections = [];
+foreach($files4 as $file) {
+    if($file=='.' || $file=='..') {
+        continue;
+    }
+
+    $collections[] = [
+        'title' => 'Samasta Pet Day’s Out',
+        'file' => '../images/gallery/pdyout/'.$file
+    ];
+}
+
+foreach($files3 as $file) {
+    if($file=='.' || $file=='..') {
+        continue;
+    }
+
+    $collections[] = [
+        'title' => '',
+        'file' => '../images/gallery/fkr/'.$file
+    ];
+}
+
 foreach($files1 as $file) {
     if($file=='.' || $file=='..') {
         continue;
@@ -26,7 +50,7 @@ foreach($files2 as $file) {
     ];
 }
 
-$limit = 15;
+$limit = 33;
 $page = 1;
 $index = 0;
 $rolling = 0;
@@ -36,23 +60,25 @@ $fileContent = file_get_contents('events_tpl.html');
 while($page<=10) {
     $rolling += 1;
 
-    $items .= '<div class="isotope-item col-lg-4 col-md-6 col-sm-12 planning">
+    if(isset($collections[$index])) {
+        $items .= '<div class="isotope-item col-lg-4 col-md-6 col-sm-12 planning">
                     <div class="vertical-item gallery-item content-absolute text-center ds">
                         <div class="item-media">
-                            <img src="'.$collections[$index]['file'].'" alt="">
+                            <img src="' . $collections[$index]['file'] . '" alt="">
                             <div class="media-links">
                                 <div class="links-wrap">
-                                    <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="'.$collections[$index]['file'].'"></a>
+                                    <a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="' . $collections[$index]['file'] . '"></a>
                                 </div>
                             </div>
                         </div>
                         <div class="item-content darken_gradient">
                             <h4 class="poppins">
-                                <a>'.$collections[$index]['title'].'</a>
+                                <a>' . $collections[$index]['title'] . '</a>
                             </h4>
                         </div>
                     </div>
                 </div>';
+    }
 
     if($rolling==$limit) {
         $pagging = '';
